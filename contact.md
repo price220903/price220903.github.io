@@ -3,8 +3,7 @@ layout: page
 title: Contact
 ---
 
-* Email: [Evanreygo Surendraveda](mailto:evanreygo@gmail.com)
-* Whatsapp: [Evanreygo Surendraveda](https://wa.me/qr/36TPDCGQXZTQF1)
+* Email: [Evanreygo Surendraveda](mailto:evanreygo@gmail.com)
 
 
 
