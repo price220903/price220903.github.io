@@ -15,7 +15,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-google-search-console-verification-file
-- jekyll-pdf-embed
   
 paginate: 4
 paginate_path: "/page:num/"
