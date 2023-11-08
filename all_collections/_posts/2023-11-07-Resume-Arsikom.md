@@ -5,40 +5,37 @@ date: 2023-11-07
 comments: true
 ---
 
-## Bab 1
+# Bab 1
 CPU/Central Processing Unit adalah bagian terpenting dari sebuah komputer yang
 bertanggung jawab untuk menjalankan instruksi-instruksi yang diberikan kepada
 komputer.
-Komponen CPU
--Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan instruksi dalam prosesor.
--Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi logika berdasar instruksi yang ditentukan.
--Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang sedang diproses atau hasil perhitungan sementara selama eksekusi instruksi komputer.
--CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen internal CPU dengan bus-bus eksternal Arithmetic Logic Unit
+## Komponen CPU
+- Control Unit: Mengendalikan operasi dasar CPU dan mengarahkan aliran data dan instruksi dalam prosesor.
+- Arithmetic and logic unit (ALU): Untuk melakukan operasi aritmetika dan operasi logika berdasar instruksi yang ditentukan.
+- Register: Penyimpanan sementara yang digunakan untuk menyimpan data yang sedang diproses atau hasil perhitungan sementara selama eksekusi instruksi komputer.
+- CPU Interconnection: sistem koneksi dan bus yang menghubungkan komponen internal CPU dengan bus-bus eksternal Arithmetic Logic Unit
 ### ALU (Arithmetic Logic Unit) adalah komponen penting dalam unit pemrosesan pusat 
 (CPU) pada komputer. ALU bertanggung jawab untuk melakukan operasi aritmatika (seperti penjumlahan,pengurangan, perkalian, dan pembagian) serta operasi logika 
 (seperti AND, OR, XOR,dan NOT) dalam sistem komputer.
 ### Peran ALU:
--Operasi Aritmatika
--Operasi Logika
--Perbandingan dan Pemrosesan Data
--Operasi Bitwise
--Penaganan Overflow dan Carry
+- Operasi Aritmatika
+- Operasi Logika
+- Perbandingan dan Pemrosesan Data
+- Operasi Bitwise
+- Penaganan Overflow dan Carry
 ### Komponen ALU:
--Register
--Pemilih(Multiplexer)</p>
-<p>-Dekoder</p>
-<p>-Rangkaian Aritmatika</p>
-<p>-Rangkaian Logika</p>
-<p>-Pembanding(Comparator)</p>
-<p>-Rangkaian penanganan Overflow dan Carry</p>
-<p>-Bus Data(Jalur Komunikasi)</p>
-Register:
-<p>Register adalah salah satu darisekumpulan kecil tempat penyimpanan data yang 
-merupakan bagian dari prosesor komputer. Register dapat menyimpan instruksi, 
-alamat penyimpanan, atau jenis data apapun (seperti urutan bit atau 
-karakterindividual).</p>
-Operasi Register:
-<p>-Fetch: Operasi Fetch digunakan untuk mengambil instruksi yang diberikan oleh 
+- Register
+- Pemilih(Multiplexer)
+- Dekoder
+- Rangkaian Aritmatika
+- Rangkaian Logika
+- Pembanding(Comparator)
+- Rangkaian penanganan Overflow dan Carry
+- Bus Data(Jalur Komunikasi)
+### Register:
+Register adalah salah satu darisekumpulan kecil tempat penyimpanan data yang merupakan bagian dari prosesor komputer. Register dapat menyimpan instruksi, alamat penyimpanan, atau jenis data apapun (seperti urutan bit atau karakterindividual).
+### Operasi Register:
+<p>- Fetch: Operasi Fetch digunakan untuk mengambil instruksi yang diberikan oleh 
 pengguna.</p>
 <p>-Decode: Operasi Decode digunakan untuk menafsirkan instruksi.</p>
 <p>-Execute: Operasi Execute dilakukan oleh CPU. Output yang dihasilkan oleh CPU 
