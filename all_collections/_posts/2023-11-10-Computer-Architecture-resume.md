@@ -8,7 +8,7 @@ So, this time i will show you my Computer Architecture Resume, my resume will co
 
 <div id="splash">
   <div class="post">
-    <p><embed src="https://github.com/price220903/price220903.github.io/blob/main/assets/doc/computer%20architecture%20resume/Resume%20Arsikom.pdf" width="820" height="375" type="application/pdf"></p>
+    <p><embed src="https://github.com/price220903/price220903.github.io/blob/f526fcdad1cc43be031bdc31c23eb6fee3e90f92/assets/img/resume/Resume%20Arsikom.pdf" width="820" height="375" type="application/pdf"></p>
   </div>
 </div>
 
