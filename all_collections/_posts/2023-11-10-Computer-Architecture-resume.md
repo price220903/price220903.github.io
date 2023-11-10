@@ -4,24 +4,6 @@ title: Computer Architecture Resume
 date: 2023-10-26
 comments: true
 ---
-<style>
-  #splash{
-    padding: 40px;
-    position: relative;
-    margin: 20px 0 0 0;
-    height: 300px;
-    width: 1100px;
-  } .post{
-    width: 820px;
-    margin-left: auto;
-    margin-right: auto;
-  } p{
-    margin-bottom: 1.75em;
-    margin-left: auto;
-    margin-bottom: auto;
-  }
-</style>
-
 So, this time i will show you my Computer Architecture Resume, my resume will contain about CPU, Memory, Data, and many more!! Without any chit chat, here is my Computer Architecture Resume:
 
   <div class="post">
