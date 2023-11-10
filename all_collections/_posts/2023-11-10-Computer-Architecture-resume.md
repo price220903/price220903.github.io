@@ -61,7 +61,7 @@ Design System didefinisikan sebagai desain yang dapat melayani kebutuhan penggun
 Arsitektur ini mencakup semua komponen perangkat keras dalam sistem, termasuk pemroses data selain CPU, seperti unit pemrosesan grafis dan akses memori langsung. Juga mencakup memory controller, data path, dan hal-hal lain seperti multiprocessing dan virtualization.
 
 
-## Bab 2
+# Bab 2
 
 ## CPU (Central Processing Unit)
 
