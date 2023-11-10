@@ -8,7 +8,7 @@ So, this time i will show you my Computer Architecture Resume, my resume will co
 
 # Bab 1
 
-## (Pengertian Arsitektur Komputer)
+## Pengertian Arsitektur Komputer
 
 Arsitektur sistem komputer adalah konsep perencanaan dan struktur pengoperasian
 dasar sistem komputer. Arsitektur sistem komputer adalah ilmu yang menghubungkan
@@ -17,7 +17,7 @@ yang memenuhi kebutuhan operasional, kinerja dan tujuan finansial. Dalam hal ini
 pada cara kerja CPU dan cara mengakses data serta alamat yang ada pada cache, RAM, ROM, hardisk dan lain-lain.
 
 
-### Sejarah arsitektur komputer
+## Sejarah arsitektur komputer
 
 Istilah arsitektur muncul dalam literatur komputer berkat konsep yang diusung Sir Lyle R. Johnson dan Sir Frederick P. Brooks, anggota departemen Organisasi Mesin, pada tahun 1959.
 Sir Johnson mengemukakan konsep tentang format, jenis instruksi, keterbatasan perangkat keras, dan peningkatan kecepatan. Konsep ini berada pada tingkat arsitektur sistem dan lebih tepat disebut sebagai arsitektur komputer dibanding istilah organisasi mesin/komputer.
@@ -25,9 +25,9 @@ Pada awalnya, rancangan desain komputer oleh ahli arsitek komputer ditulis dan d
 Kemudian desain arsitektur komputer dirakit secara material dalam bentuk komputer transistor-transistor logic (TTL).
 Pada 1990-an, arsitektur komputer baru biasanya dibangun, diperiksa, dan diubah di dalam arsitektur komputer lain, dalam simulator arsitektur komputer, atau bagian interior FPGA, sebagai mikroprosesor sebelum dibentuk menjadi perangkat keras utama.
 
-### Jenis-jenis Arsitektur Komputer
+## Jenis-jenis Arsitektur Komputer
 
-#### 1. Von-Neumann Architecture
+- Von-Neumann Architecture
 
 Arsitektur ini diusulkan oleh John Von-Neumann. Sekarang komputer sehari-hari yang kita gunakan didasarkan pada arsitektur ini.
 Arsitektur Von-Neumann didasarkan pada beberapa konsep. Pertama, memori komputer memiliki satu memori baca/tulis yang tersedia untuk membaca dan menulis instruksi dan data.
@@ -35,27 +35,27 @@ Setiap memori memiliki beberapa lokasi dan setiap lokasi memiliki alamat yang un
 Kedua, eksekusi instruksi selalu terjadi secara berurutan kecuali diperlukan modifikasi. Sebagai contoh, misalkan kita sedang mengeksekusi sebuah instruksi dari baris 1 ke baris 10 tapi sekarang kita diminta untuk mengeksekusi baris 50 bukannya baris 11 kemudian kita melompat ke instruksi 50 dan mengeksekusinya.
 Dalam arsitektur ini ada bus (bus alamat/bus data/bus kontrol) yang digunakan untuk instruksi dan eksekusi kode data. Perangkat input mengambil data atau instruksi dan Central processing unit (CPU) melakukan satu operasi pada satu waktu, baik mengambil data atau instruksi masuk/keluar dari memori. Setelah operasi selesai, lalu dikirim ke perangkat output. Unit kontrol (Control Unit) dan unit logika (ALU) untuk operasi pemrosesan berada di dalam unit pemrosesan pusat (CPU).
 
-#### 2.Harvard Architecture
+- Harvard Architecture
 
 Arsitektur komputer yang tak kalah populer adalah arsitektur Harvard.
 Arsitektur Harvard menyimpan instruksi dan data dalam memori terpisah, dan prosesor mengakses memori ini menggunakan bus terpisah. Prosesor terhubung ke 'memori instruksi' menggunakan set alamat dan bus data khusus, dan terhubung ke 'memori data' menggunakan set alamat dan bus data yang berbeda.
 Arsitektur Harvard memiliki kode akses dan ruang alamat data yang berbeda yaitu, alamat instruksi nol tidak sama dengan alamat data nol. Alamat instruksi nol mengidentifikasi nilai 24-byte dan alamat data nol mengidentifikasi nilai 8-byte yang bukan merupakan bagian dari nilai 24-byte.
 Arsitektur ini digunakan secara luas dalam teknologi embedded system seperti sistem pemrosesan sinyal digital (DSP), dan banyak perangkat mikrokontroler menggunakan arsitektur mirip Harvard.
 
-#### 3.Instruction Set Architecture (ISA)
+- Instruction Set Architecture (ISA)
 
 Arsitektur komputer digital penting lainnya adalah Arsitektur Instruction Set. Arsitekturnya menyimpan kumpulan instruksi yang dibuat dan diduga oleh prosesor. Arsitektur ini terdiri dari dua set instruksi, yaitu RISC (Reduced Instruction Set Computer) dan CISC (Complex Instruction Set Computer).
 Arsitektur ini memberdayakan evolusi mikro-arsitektur, mengimplementasikan ISA sebagai sistem eksklusif dengan kinerja lebih tinggi yang dapat menjalankan perangkat lunak pada generasi eksekusi sebelumnya.
 Arsitektur ISA direalisasikan pertama pada tahun 1990-an oleh IBM. Instruksi memiliki beberapa mode alamat, tetapi program tidak menggunakan semuanya.
 
 
-#### 4.Micro-architecture
+- Micro-architecture
 
 Micro-architecture dikenal sebagai organisasi komputer dan merupakan jenis arsitektur yang digunakan ketika prosesor bawaannya berarsitektur ISA. ISA diimplementasikan dengan berbagai Micro-architecture dan bervariasi karena perubahan teknologi.
 Micro-architecture bekerja dengan cara tertentu. Ia membaca instruksi dan melakukan decoding, yaitu proses menemukan data paralel, kemudian memproses instruksi, dan menghasilkan output. Arsitektur ini digunakan dalam mikroprosesor dan mikrokontroler.
 
 
-#### 5.Design System
+- Design System
 
 Design System didefinisikan sebagai desain yang dapat melayani kebutuhan pengguna seperti arsitektur sistem, modul komputer yang memiliki berbagai antarmuka, dan manajemen data dalam suatu sistem. 
 Arsitektur ini mencakup semua komponen perangkat keras dalam sistem, termasuk pemroses data selain CPU, seperti unit pemrosesan grafis dan akses memori langsung. Juga mencakup memory controller, data path, dan hal-hal lain seperti multiprocessing dan virtualization.
