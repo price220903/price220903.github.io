@@ -5,6 +5,10 @@ date: 2023-10-26
 comments: true
 ---
 
+<p align="center" width="100%">
+    <img width="50%" src="https://image.web.id/images/campuscoder-poster-2.png">
+</p>
+
 Industri teknologi informasi (IT) berkembang pesat, menciptakan permintaan yang tinggi akan profesional yang kompeten di bidangnya. Di
 tengah persaingan yang semakin ketat, memiliki sertifikasi di bidang IT atau sebagai seorang programmer dapat menjadi nilai tambah yang
 signifikan.
@@ -66,3 +70,7 @@ Berikut adalah beberapa situs web yang bisa kamu jadikan sumber belajar untuk me
 - Devhandal.id adalah situs web komunitas belajar IT yang menyediakan berbagai materi pembelajaran seputar sertifikasi IT, termasuk sertifikasi Google Cloud Platform.
 
 Dengan memanfaatkan situs web-situs tersebut, kamu bisa mempersiapkan sertifikasi IT dengan lebih baik dan meningkatkan peluangmu untuk mendapatkan sertifikasi tersebut.
+
+<p align="center" width="100%">
+    <img width="50%" src="https://www.bing.com/th/id/OGC.e0f4e2b2de25efdfa82c26b06d396b4d?pid=1.7&rurl=https%3a%2f%2fcdn-web.ruangguru.com%2flanding-pages%2fassets%2fhs%2fprogrammer.gif&ehk=YQ%2bVC%2bd3m%2fHaVUXOwfmGmEOymzF2xUEhCZ502uAzd5Q%3d">
+</p>
